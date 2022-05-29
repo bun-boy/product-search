@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/yashburnwal/internship/timepass/product-search/src/App.css","main.c108173a.chunk.css"],"names":[],"mappings":"AAAA,YACE,SCCF,CDEA,UACE,iBCCF","file":"main.c108173a.chunk.css","sourcesContent":[".outOfStock {\n  color: red;\n}\n\n.category {\n  text-align: center;\n}\n",".outOfStock {\n  color: red;\n}\n\n.category {\n  text-align: center;\n}\n\n"]}
